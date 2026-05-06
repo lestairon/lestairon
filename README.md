@@ -10,7 +10,7 @@
 
 ## Projects
 
-### [MIRA](https://github.com/lestairon/mira) — Market Intelligence Research Assistant
+### [MIRA](https://github.com/mira-js/MIRA) — Market Intelligence Research Assistant
 > Ask a question. Get structured insight from 7 sources at once.
 
 MIRA helps indie founders and SaaS teams understand what real users are struggling with — without manually reading through Reddit threads, HN comments, and review sites.
@@ -25,7 +25,7 @@ Open-core: self-hosted under AGPL v3.0 · cloud tier for teams.
 
 ---
 
-### [DeepDiver](https://github.com/lestairon/deepdiver) — True Winrate Calculator
+### [DeepDiver](https://github.com/lestairon/deepdiver) — *private for now* — True Winrate Calculator
 > Pre-computed game analytics. Never computed on-request.
 
 Turborepo monorepo with dedicated packages for API, crawler, analyzer, Riot API client, rate limiter, and shared contracts. BullMQ pipelines batch all metric computation in the background; results are served from Redis on every request. File-based canonical memory keeps agent context lean across sessions.
