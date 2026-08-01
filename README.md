@@ -10,7 +10,7 @@
 
 ## Projects
 
-### [MIRA](https://github.com/mira-js/MIRA) — Market Intelligence Research Assistant
+### [MIRA](https://github.com/mira-js) — Market Intelligence Research Assistant
 > Ask a question. Get structured insight from 7 sources at once.
 
 MIRA helps indie founders and SaaS teams understand what real users are struggling with — without manually reading through Reddit threads, HN comments, and review sites.
